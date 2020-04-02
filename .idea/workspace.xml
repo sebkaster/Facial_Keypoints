@@ -39,9 +39,20 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="144" y="0" key="SettingsEditor/0.0.1280.680/-120.1080.1234.617@0.0.1280.680" timestamp="1585849889476" />
-    <state x="348" y="168" key="com.intellij.ide.util.TipDialog" timestamp="1585848360582">
+    <state x="348" y="168" key="com.intellij.ide.util.TipDialog" timestamp="1585854273456">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="348" y="168" key="com.intellij.ide.util.TipDialog/0.0.1280.680/-120.1080.1234.617@0.0.1280.680" timestamp="1585848360582" />
+    <state x="348" y="168" key="com.intellij.ide.util.TipDialog/0.0.1280.680/-120.1080.1234.617@0.0.1280.680" timestamp="1585854273456" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
